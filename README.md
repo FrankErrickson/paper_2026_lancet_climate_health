@@ -25,7 +25,7 @@ This folder contains Julia scripts for estimating climate benefits from the GIVE
 * <ins>Step 5: Mitigation Costs (GCAM).</ins>
 This folder contains configuration files to run GCAM for obtaining marginal abatement curves and R scripts to calculate mitigation costs associated with each scenario.
 * <ins>Step 6: Social Welfare Analysis.</ins>
-Folder for social welfare analysis scripts (details to be filled).
+Folder for social welfare analysis scripts.
 * <ins>Step 7: Air Quality Policy Costs.</ins>
 Contains the original marginal cost curve from the GAINS model and an R script to calculate the air quality policy costs.
 * <ins>Step 8: Figures.</ins>
