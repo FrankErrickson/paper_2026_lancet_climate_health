@@ -37,4 +37,3 @@ To replicate the analysis, you'll need the following software:
 * R.
 * RStudio (optional but recommended for R script execution).
 * Julia (version 1.6 recommended for GIVE).
-* Anaconda (for DSCIM module).
