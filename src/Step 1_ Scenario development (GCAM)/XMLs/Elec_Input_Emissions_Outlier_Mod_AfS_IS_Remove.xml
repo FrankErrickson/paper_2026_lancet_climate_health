@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="Africa_Northern">
+            <supplysector name="electricity" nocreate="1">
+                <subsector name="biomass" nocreate="1">
+                    <technology name="biomass (conv)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="N2O">
+                                <input-emissions>5.69135E-08</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="NH3">
+                                <input-emissions>8.55275E-08</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="CH4">
+                                <input-emissions>2.19638E-07</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="SO2_3">
+                                <input-emissions>2.36821E-07</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>5.35848E-07</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>1.22733E-06</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="OC">
+                                <input-emissions>2.55308E-06</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>3.13402E-06</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="NOx">
+                                <input-emissions>3.21621E-06</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="South Africa">
+            <supplysector name="electricity" nocreate="1">
+                <subsector name="refined liquids" nocreate="1">
+                    <technology name="refined liquids (steam/CT)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="OC">
+                                <input-emissions>3.29844E-06</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>8.11511E-06</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Africa_Western">
+            <supplysector name="electricity" nocreate="1">
+                <subsector name="coal" nocreate="1">
+                    <technology name="coal (conv pul)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="NH3">
+                                <input-emissions>3.90607E-06</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0.000156117</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="biomass" nocreate="1">
+                    <technology name="biomass (conv)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="NH3">
+                                <input-emissions>9.38263E-05</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0.003438114</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="gas" nocreate="1">
+                    <technology name="gas (CC)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0.000153563</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                    <technology name="gas (steam/CT)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0.003681294</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="refined liquids" nocreate="1">
+                    <technology name="refined liquids (steam/CT)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="OC">
+                                <input-emissions>0.000200746</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>0.000493893</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0.003355042</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0.027746648</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="European Free Trade Association">
+            <supplysector name="electricity" nocreate="1">
+                <subsector name="gas" nocreate="1">
+                    <technology name="gas (CC)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>5.97088E-06</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                    <technology name="gas (steam/CT)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>1.95945E-05</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0.000370729</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Africa_Eastern">
+            <supplysector name="electricity" nocreate="1">
+                <subsector name="coal" nocreate="1">
+                    <technology name="coal (conv pul)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="BC">
+                                <input-emissions>1.36918E-05</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="refined liquids" nocreate="1">
+                    <technology name="refined liquids (steam/CT)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="OC">
+                                <input-emissions>0.000201687</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>0.000496208</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="South America_Northern">
+            <supplysector name="electricity" nocreate="1">
+                <subsector name="biomass" nocreate="1">
+                    <technology name="biomass (conv)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="NH3">
+                                <input-emissions>1.37665E-05</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0.000504451</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="NOx">
+                                <input-emissions>0.000517681</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="EU-12">
+            <supplysector name="electricity" nocreate="1">
+                <subsector name="refined liquids" nocreate="1">
+                    <technology name="refined liquids (steam/CT)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="N2O">
+                                <input-emissions>6.20696E-05</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="OC">
+                                <input-emissions>0.000124151</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="CH4">
+                                <input-emissions>0.000288988</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>0.000305447</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Africa_Southern">
+            <supplysector name="electricity" nocreate="1">
+                <subsector name="refined liquids" nocreate="1">
+                    <technology name="refined liquids (steam/CT)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="OC">
+                                <input-emissions>0.000132309</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>0.000325517</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+              <supplysector name="iron and steel" nocreate="1">
+                <subsector name="EAF with DRI" nocreate="1">
+                    <stub-technology name="EAF with DRI" nocreate="1">
+                        <period year="1975">
+                            <Non-CO2 name="SO2_3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NH3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NOx">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="OC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CH4">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="N2O">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                        </period>
+                        <period year="1990">
+                            <Non-CO2 name="SO2_3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NH3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NOx">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="OC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CH4">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="N2O">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                        </period>
+                        <period year="2005">
+                            <Non-CO2 name="SO2_3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NH3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NOx">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="OC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CH4">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="N2O">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                        </period>
+                        <period year="2010">
+                            <Non-CO2 name="SO2_3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NH3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NOx">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="OC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CH4">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="N2O">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                        </period>
+                        <period year="2015">
+                            <Non-CO2 name="SO2_3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NH3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NOx">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="OC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CH4">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="N2O">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>wholesale gas</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                        </period>
+                    </stub-technology>
+                </subsector>
+                <subsector name="BLASTFUR" nocreate="1">
+                    <stub-technology name="BLASTFUR" nocreate="1">
+                        <period year="1975">
+                            <Non-CO2 name="SO2_3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                                <gdp-control name="GDP_control">
+                                    <max-reduction>99.60892947524</max-reduction>
+                                    <steepness>3.5</steepness>
+                                </gdp-control>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                                <gdp-control name="GDP_control">
+                                    <max-reduction>80.3447054234023</max-reduction>
+                                    <steepness>3.5</steepness>
+                                </gdp-control>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                                <gdp-control name="GDP_control">
+                                    <max-reduction>99.9953990675429</max-reduction>
+                                    <steepness>3.5</steepness>
+                                </gdp-control>
+                            </Non-CO2>
+                            <Non-CO2 name="NH3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                                <gdp-control name="GDP_control">
+                                    <max-reduction>99.9907451790437</max-reduction>
+                                    <steepness>3.5</steepness>
+                                </gdp-control>
+                            </Non-CO2>
+                            <Non-CO2 name="NOx">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                                <gdp-control name="GDP_control">
+                                    <max-reduction>99.3599814502891</max-reduction>
+                                    <steepness>3.5</steepness>
+                                </gdp-control>
+                            </Non-CO2>
+                            <Non-CO2 name="OC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                                <gdp-control name="GDP_control">
+                                    <max-reduction>97.0802822309506</max-reduction>
+                                    <steepness>3.5</steepness>
+                                </gdp-control>
+                            </Non-CO2>
+                            <Non-CO2 name="CH4">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="N2O">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                        </period>
+                        <period year="1990">
+                            <Non-CO2 name="SO2_3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NH3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NOx">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="OC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CH4">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="N2O">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                        </period>
+                        <period year="2005">
+                            <Non-CO2 name="SO2_3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NH3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NOx">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="OC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CH4">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="N2O">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                        </period>
+                        <period year="2010">
+                            <Non-CO2 name="SO2_3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NH3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NOx">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="OC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CH4">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="N2O">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                        </period>
+                        <period year="2015">
+                            <Non-CO2 name="SO2_3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NH3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NOx">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="OC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CH4">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="N2O">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                        </period>
+                    </stub-technology>
+                </subsector>
+                <subsector name="EAF with scrap" nocreate="1">
+                    <stub-technology name="EAF with scrap" nocreate="1">
+                        <period year="1975">
+                            <Non-CO2 name="SO2_3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                                <gdp-control name="GDP_control">
+                                    <max-reduction>73.0295638629001</max-reduction>
+                                    <steepness>3.5</steepness>
+                                </gdp-control>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                                <gdp-control name="GDP_control">
+                                    <max-reduction>52.3821512145942</max-reduction>
+                                    <steepness>3.5</steepness>
+                                </gdp-control>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                                <gdp-control name="GDP_control">
+                                    <max-reduction>75.2442664332167</max-reduction>
+                                    <steepness>3.5</steepness>
+                                </gdp-control>
+                            </Non-CO2>
+                            <Non-CO2 name="NH3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                                <gdp-control name="GDP_control">
+                                    <max-reduction>81.4441953533362</max-reduction>
+                                    <steepness>3.5</steepness>
+                                </gdp-control>
+                            </Non-CO2>
+                            <Non-CO2 name="NOx">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                                <gdp-control name="GDP_control">
+                                    <max-reduction>95.7417936165492</max-reduction>
+                                    <steepness>3.5</steepness>
+                                </gdp-control>
+                            </Non-CO2>
+                            <Non-CO2 name="OC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                                <gdp-control name="GDP_control">
+                                    <max-reduction>83.7172541457529</max-reduction>
+                                    <steepness>3.5</steepness>
+                                </gdp-control>
+                            </Non-CO2>
+                            <Non-CO2 name="CH4">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="N2O">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                        </period>
+                        <period year="1990">
+                            <Non-CO2 name="SO2_3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NH3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NOx">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="OC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CH4">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="N2O">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                        </period>
+                        <period year="2005">
+                            <Non-CO2 name="SO2_3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NH3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NOx">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="OC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CH4">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="N2O">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                        </period>
+                        <period year="2010">
+                            <Non-CO2 name="SO2_3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NH3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NOx">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="OC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CH4">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="N2O">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                        </period>
+                        <period year="2015">
+                            <Non-CO2 name="SO2_3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="BC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NH3">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="NOx">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="OC">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="CH4">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                            <Non-CO2 name="N2O">
+                                <input-emissions>0</input-emissions>
+                                <input-driver>
+                                    <input-name>refined liquids industrial</input-name>
+                                </input-driver>
+                            </Non-CO2>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Brazil">
+            <supplysector name="electricity" nocreate="1">
+                <subsector name="biomass" nocreate="1">
+                    <technology name="biomass (conv)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="N2O">
+                                <input-emissions>0.000146863</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="NH3">
+                                <input-emissions>0.000220701</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="CH4">
+                                <input-emissions>0.000566768</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="SO2_3">
+                                <input-emissions>0.000611109</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0.003167071</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0.00808722</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="NOx">
+                                <input-emissions>0.008299328</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Indonesia">
+            <supplysector name="electricity" nocreate="1">
+                <subsector name="biomass" nocreate="1">
+                    <technology name="biomass (conv)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="NH3">
+                                <input-emissions>0.000176634</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Canada">
+            <supplysector name="electricity" nocreate="1">
+                <subsector name="gas" nocreate="1">
+                    <technology name="gas (CC)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0.000380695</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                    <technology name="gas (steam/CT)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0.005734917</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="South America_Southern">
+            <supplysector name="electricity" nocreate="1">
+                <subsector name="biomass" nocreate="1">
+                    <technology name="biomass (conv)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="NH3">
+                                <input-emissions>0.000653289</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="CO">
+                                <input-emissions>0.023938709</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                            <Non-CO2 name="NOx">
+                                <input-emissions>0.024566562</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Southeast Asia">
+            <supplysector name="electricity" nocreate="1">
+                <subsector name="biomass" nocreate="1">
+                    <technology name="biomass (conv)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="NH3">
+                                <input-emissions>0.003471255</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="refined liquids" nocreate="1">
+                    <technology name="refined liquids (steam/CT)" nocreate="1">
+                        <period year="2015">
+                            <Non-CO2 name="NMVOC">
+                                <input-emissions>0.004064985</input-emissions>
+                                <output-driver/>
+                            </Non-CO2>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

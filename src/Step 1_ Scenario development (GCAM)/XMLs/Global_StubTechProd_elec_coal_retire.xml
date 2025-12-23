@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="USA">
+            <supplysector name="elec_coal (conv pul)">
+                <subsector name="coal (conv pul)">
+                    <stub-technology name="coal (conv pul) (cooling pond)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>6</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (dry cooling)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>6.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (once through)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>6.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (seawater)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>6.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (recirculating)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>6.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Africa_Southern">
+            <supplysector name="elec_coal (conv pul)">
+                <subsector name="coal (conv pul)">
+                    <stub-technology name="coal (conv pul) (cooling pond)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (dry cooling)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (once through)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (seawater)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (recirculating)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Australia_NZ">
+            <supplysector name="elec_coal (conv pul)">
+                <subsector name="coal (conv pul)">
+                    <stub-technology name="coal (conv pul) (cooling pond)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (dry cooling)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (once through)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (seawater)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (recirculating)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Brazil">
+            <supplysector name="elec_coal (conv pul)">
+                <subsector name="coal (conv pul)">
+                    <stub-technology name="coal (conv pul) (cooling pond)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>7.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (dry cooling)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>7.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (once through)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>7.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (seawater)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>7.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (recirculating)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>7.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Canada">
+            <supplysector name="elec_coal (conv pul)">
+                <subsector name="coal (conv pul)">
+                    <stub-technology name="coal (conv pul) (cooling pond)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (dry cooling)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (once through)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (seawater)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (recirculating)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="EU-12">
+            <supplysector name="elec_coal (conv pul)">
+                <subsector name="coal (conv pul)">
+                    <stub-technology name="coal (conv pul) (cooling pond)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (dry cooling)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (once through)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (seawater)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (recirculating)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="EU-15">
+            <supplysector name="elec_coal (conv pul)">
+                <subsector name="coal (conv pul)">
+                    <stub-technology name="coal (conv pul) (cooling pond)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (dry cooling)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (once through)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (seawater)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (recirculating)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Europe_Eastern">
+            <supplysector name="elec_coal (conv pul)">
+                <subsector name="coal (conv pul)">
+                    <stub-technology name="coal (conv pul) (cooling pond)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (dry cooling)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (once through)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (seawater)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (recirculating)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Europe_Non_EU">
+            <supplysector name="elec_coal (conv pul)">
+                <subsector name="coal (conv pul)">
+                    <stub-technology name="coal (conv pul) (cooling pond)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (dry cooling)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (once through)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (seawater)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (recirculating)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="European Free Trade Association">
+            <supplysector name="elec_coal (conv pul)">
+                <subsector name="coal (conv pul)">
+                    <stub-technology name="coal (conv pul) (cooling pond)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (dry cooling)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (once through)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (seawater)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (recirculating)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="India">
+            <supplysector name="elec_coal (conv pul)">
+                <subsector name="coal (conv pul)">
+                    <stub-technology name="coal (conv pul) (cooling pond)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (dry cooling)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (once through)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (seawater)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (recirculating)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>1.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Japan">
+            <supplysector name="elec_coal (conv pul)">
+                <subsector name="coal (conv pul)">
+                    <stub-technology name="coal (conv pul) (cooling pond)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>5.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (dry cooling)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>5.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (once through)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>5.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (seawater)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>5.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (recirculating)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>5.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Mexico">
+            <supplysector name="elec_coal (conv pul)">
+                <subsector name="coal (conv pul)">
+                    <stub-technology name="coal (conv pul) (cooling pond)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (dry cooling)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (once through)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (seawater)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (recirculating)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Middle East">
+            <supplysector name="elec_coal (conv pul)">
+                <subsector name="coal (conv pul)">
+                    <stub-technology name="coal (conv pul) (cooling pond)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>5.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (dry cooling)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>5.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (once through)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>5.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (seawater)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>5.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (recirculating)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>5.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="South Africa">
+            <supplysector name="elec_coal (conv pul)">
+                <subsector name="coal (conv pul)">
+                    <stub-technology name="coal (conv pul) (cooling pond)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (dry cooling)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (once through)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (seawater)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (recirculating)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="South Korea">
+            <supplysector name="elec_coal (conv pul)">
+                <subsector name="coal (conv pul)">
+                    <stub-technology name="coal (conv pul) (cooling pond)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>9</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (dry cooling)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>9.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (once through)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>9.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (seawater)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>9.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (recirculating)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>9.0</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Argentina">
+            <supplysector name="elec_coal (conv pul)">
+                <subsector name="coal (conv pul)">
+                    <stub-technology name="coal (conv pul) (cooling pond)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (dry cooling)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (once through)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (seawater)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="coal (conv pul) (recirculating)">
+                        <period year="2015">
+                            <lifetime>30</lifetime>
+                            <s-curve-shutdown-decider name="s-curve">
+                                <steepness>0.3</steepness>
+                                <half-life>2.5</half-life>
+                            </s-curve-shutdown-decider>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

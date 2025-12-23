@@ -1,0 +1,3 @@
+We used an open-sourced software to produce the GCAM globally gridded dataset for GEOS-Chem: https://github.com/iiasa/emissions_downscaling
+
+To take GCAM outputs and transforms it into the input format needed for the above software, here is the R script we used: https://github.com/JGCRI/GCAM_to_IAMC_Aggregation

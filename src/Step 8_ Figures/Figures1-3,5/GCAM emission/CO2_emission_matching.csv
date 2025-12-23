@@ -1,0 +1,169 @@
+GCAMRegion,Country,Country Code,Country Income Classification,Country Income Classification.2,2021
+Africa_Eastern,Burundi,BDI,Low,Low,0.710458691
+Africa_Eastern,Ethiopia,ETH,Low,Low,19.20883863
+Africa_Eastern,Madagascar,MDG,Low,Low,5.299768977
+Africa_Eastern,Rwanda,RWA,Low,Low,1.235757002
+Africa_Eastern,Somalia,SOM,Low,Low,0.763629187
+Africa_Eastern,Sudan,SDN,Low,Low,21.36578888
+Africa_Eastern,Uganda,UGA,Low,Low,6.815710279
+Africa_Eastern,Comoros,COM,Lower_Middle,Middle,0.278186191
+Africa_Eastern,Djibouti,DJI,Lower_Middle,Middle,0.608819187
+Africa_Eastern,Kenya,KEN,Lower_Middle,Middle,22.43026178
+Africa_Eastern,Mauritius,MUS,Upper_Middle,Middle,4.12793065
+Africa_Northern,Egypt,EGY,Lower_Middle,Middle,259.3213445
+Africa_Northern,Morocco,MAR,Lower_Middle,Middle,73.96805538
+Africa_Northern,Tunisia,TUN,Lower_Middle,Middle,31.78599104
+Africa_Northern,Algeria,DZA,Upper_Middle,Middle,173.0006505
+Africa_Northern,Libya,LBY,Upper_Middle,Middle,63.27811872
+Africa_Southern,Malawi,MWI,Low,Low,1.818903274
+Africa_Southern,Mozambique,MOZ,Low,Low,8.644338953
+Africa_Southern,Angola,AGO,Lower_Middle,Middle,24.4500572
+Africa_Southern,Lesotho,LSO,Lower_Middle,Middle,0.652547973
+Africa_Southern,Tanzania,TZA,Lower_Middle,Middle,13.40768066
+Africa_Southern,Zambia,ZMB,Lower_Middle,Middle,7.010965431
+Africa_Southern,Zimbabwe,ZWE,Lower_Middle,Middle,12.29322746
+Africa_Southern,Botswana,BWA,Upper_Middle,Middle,6.999752167
+Africa_Western,Burkina Faso,BFA,Low,Low,5.289855324
+Africa_Western,Central African Republic,CAF,Low,Low,0.275919941
+Africa_Western,Chad,TCD,Low,Low,2.21421826
+Africa_Western,Democratic Republic of the Congo,COD,Low,Low,3.369498414
+Africa_Western,Gambia,GMB,Low,Low,0.557662085
+Africa_Western,Guinea-Bissau,GNB,Low,Low,0.320930346
+Africa_Western,Liberia,LBR,Low,Low,1.443499541
+Africa_Western,Mali,MLI,Low,Low,5.921716039
+Africa_Western,Niger,NER,Low,Low,2.469814991
+Africa_Western,Sierra Leone,SLE,Low,Low,1.008872059
+Africa_Western,Benin,BEN,Lower_Middle,Middle,8.629283856
+Africa_Western,Cameroon,CMR,Lower_Middle,Middle,10.20271103
+Africa_Western,Congo,COG,Lower_Middle,Middle,7.371025916
+Africa_Western,Cote d���,CIV,Lower_Middle,Middle,14.54393137
+Africa_Western,Ghana,GHA,Lower_Middle,Middle,23.63553424
+Africa_Western,Guinea,GIN,Lower_Middle,Middle,3.440748151
+Africa_Western,Mauritania,MRT,Lower_Middle,Middle,4.256858833
+Africa_Western,Nigeria,NGA,Lower_Middle,Middle,127.0292518
+Africa_Western,Sao Tome and Principe,STP,Lower_Middle,Middle,0.153461718
+Africa_Western,Senegal,SEN,Lower_Middle,Middle,11.9808239
+Africa_Western,Equatorial Guinea,GNQ,Upper_Middle,Middle,7.003662021
+Africa_Western,Gabon,GAB,Upper_Middle,Middle,5.520448926
+Argentina,Argentina,ARG,Upper_Middle,Middle,189.0020275
+Australia_NZ,Australia,AUS,High,High,367.9069573
+Australia_NZ,New Zealand,NZL,High,High,32.60333814
+Brazil,Brazil,BRA,Upper_Middle,Middle,489.8577336
+Canada,Canada,CAN,High,High,563.5383792
+Central America and Caribbean,Bahamas,BHS,High,High,4.042735574
+Central America and Caribbean,Barbados,BRB,High,High,1.765476591
+Central America and Caribbean,Panama,PAN,High,High,12.51089334
+Central America and Caribbean,Trinidad and Tobago,TTO,High,High,28.99454855
+Central America and Caribbean,Haiti,HTI,Lower_Middle,Middle,3.243721444
+Central America and Caribbean,Honduras,HND,Lower_Middle,Middle,9.750869303
+Central America and Caribbean,Nicaragua,NIC,Lower_Middle,Middle,5.002434496
+Central America and Caribbean,Belize,BLZ,Upper_Middle,Middle,0.635030944
+Central America and Caribbean,Costa Rica,CRI,Upper_Middle,Middle,8.090574591
+Central America and Caribbean,El Salvador,SLV,Upper_Middle,Middle,8.176486479
+Central America and Caribbean,Grenada,GRD,Upper_Middle,Middle,0.343901235
+Central America and Caribbean,Guatemala,GTM,Upper_Middle,Middle,20.19112075
+Central America and Caribbean,Jamaica,JAM,Upper_Middle,Middle,8.081031591
+Central America and Caribbean,Saint Lucia,LCA,Upper_Middle,Middle,0.713276767
+Central America and Caribbean,Saint Vincent and the Grenadines,VCT,Upper_Middle,Middle,0.232840745
+Central Asia,Kyrgyzstan,KGZ,Lower_Middle,Middle,10.77982562
+Central Asia,Tajikistan,TJK,Lower_Middle,Middle,10.12597045
+Central Asia,Uzbekistan,UZB,Lower_Middle,Middle,125.6536225
+Central Asia,Armenia,ARM,Upper_Middle,Middle,6.769803499
+Central Asia,Azerbaijan,AZE,Upper_Middle,Middle,37.10504296
+Central Asia,Georgia,GEO,Upper_Middle,Middle,11.64922028
+Central Asia,Kazakhstan,KAZ,Upper_Middle,Middle,211.2073488
+Central Asia,Mongolia,MNG,Upper_Middle,Middle,24.98524241
+Central Asia,Turkmenistan,TKM,Upper_Middle,Middle,83.32159784
+China,China,CHN,Upper_Middle,Middle,12790.33586
+Colombia,Colombia,COL,Upper_Middle,Middle,77.57032327
+EU-12,Bulgaria,BGR,High,High,43.64437322
+EU-12,Cyprus,CYP,High,High,6.749550626
+EU-12,Czech Republic,CZE,High,High,97.69077436
+EU-12,Estonia,EST,High,High,14.9056687
+EU-12,Hungary,HUN,High,High,50.69127806
+EU-12,Latvia,LVA,High,High,7.212016798
+EU-12,Lithuania,LTU,High,High,13.82483539
+EU-12,Malta,MLT,High,High,1.745432648
+EU-12,Poland,POL,High,High,320.7681893
+EU-12,Romania,ROU,High,High,78.74669937
+EU-12,Slovakia,SVK,High,High,37.48180992
+EU-12,Slovenia,SVN,High,High,14.17066724
+EU-15,Austria,AUT,High,High,66.00769434
+EU-15,Belgium,BEL,High,High,95.92364019
+EU-15,Denmark,DNK,High,High,27.28003434
+EU-15,Finland,FIN,High,High,38.99249746
+EU-15,France,FRA,High,High,302.3270747
+EU-15,Germany,DEU,High,High,665.8836332
+EU-15,Greece,GRC,High,High,53.37247579
+EU-15,Ireland,IRL,High,High,35.01315221
+EU-15,Italy,ITA,High,High,319.6690114
+EU-15,Luxembourg,LUX,High,High,8.446430798
+EU-15,Netherlands,NLD,High,High,146.8681349
+EU-15,Portugal,PRT,High,High,38.67690709
+EU-15,Spain,ESP,High,High,231.9142275
+EU-15,Sweden,SWE,High,High,38.92176751
+EU-15,United Kingdom,GBR,High,High,335.3631883
+Europe_Eastern,Belarus,BLR,Upper_Middle,Middle,58.36431734
+Europe_Eastern,Moldova,MDA,Upper_Middle,Middle,9.549683576
+Europe_Eastern,Ukraine,UKR,Upper_Middle,Middle,185.4554
+Europe_Non_EU,Croatia,HRV,High,High,17.99854832
+Europe_Non_EU,Albania,ALB,Upper_Middle,Middle,4.591114338
+Europe_Non_EU,Bosnia and Herzegovina,BIH,Upper_Middle,Middle,15.37006991
+Europe_Non_EU,Macedonia,MKD,Upper_Middle,Middle,7.507747257
+Europe_Non_EU,Montenegro,MNE,Upper_Middle,Middle,19.67482318
+Europe_Non_EU,Serbia,SRB,Upper_Middle,Middle,19.67482318
+Europe_Non_EU,Turkey,TUR,Upper_Middle,Middle,449.724902
+European Free Trade Association,Iceland,ISL,High,High,2.908004789
+European Free Trade Association,Norway,NOR,High,High,42.32921125
+European Free Trade Association,Switzerland,CHE,High,High,35.07257301
+India,India,IND,Lower_Middle,Middle,2648.779133
+Indonesia,Indonesia,IDN,Upper_Middle,Middle,602.593708
+Japan,Japan,JPN,High,High,1084.690992
+Mexico,Mexico,MEX,Upper_Middle,Middle,418.3479391
+Middle East,Bahrain,BHR,High,High,37.49464013
+Middle East,Israel,ISR,High,High,59.58964365
+Middle East,Kuwait,KWT,High,High,98.08298568
+Middle East,Oman,OMN,High,High,94.61967335
+Middle East,Qatar,QAT,High,High,97.69387446
+Middle East,Saudi Arabia,SAU,High,High,586.3982445
+Middle East,United Arab Emirates,ARE,High,High,193.5069399
+Middle East,Jordan,JOR,Lower_Middle,Middle,24.29678442
+Middle East,Lebanon,LBN,Lower_Middle,Middle,25.76891099
+Middle East,Iran,IRN,Upper_Middle,Middle,710.8306148
+Middle East,Iraq,IRQ,Upper_Middle,Middle,177.8488206
+Pakistan,Pakistan,PAK,Lower_Middle,Middle,219.7924461
+Russia,Russia,RUS,High,High,1942.535227
+South Africa,South Africa,ZAF,Upper_Middle,Middle,435.5228117
+South America_Northern,Guyana,GUY,High,High,2.900246704
+South America_Northern,Suriname,SUR,Upper_Middle,Middle,2.706967359
+South America_Southern,Chile,CHL,High,High,85.70328674
+South America_Southern,Uruguay,URY,High,High,6.790116761
+South America_Southern,Bolivia,BOL,Lower_Middle,Middle,22.42803649
+South America_Southern,Ecuador,ECU,Upper_Middle,Middle,41.14067192
+South America_Southern,Paraguay,PRY,Upper_Middle,Middle,8.891134056
+South America_Southern,Peru,PER,Upper_Middle,Middle,55.14439017
+South Asia,Afghanistan,AFG,Low,Low,8.347669018
+South Asia,Bangladesh,BGD,Lower_Middle,Middle,106.8674407
+South Asia,Bhutan,BTN,Lower_Middle,Middle,1.975741344
+South Asia,Nepal,NPL,Lower_Middle,Middle,14.31374519
+South Asia,Sri Lanka,LKA,Lower_Middle,Middle,23.86251312
+South Asia,Maldives,MDV,Upper_Middle,Middle,2.206366509
+South Korea,South Korea,KOR,High,High,626.8000309
+Southeast Asia,Brunei Darussalam,BRN,High,High,7.207750563
+Southeast Asia,Singapore,SGP,High,High,58.18146555
+Southeast Asia,Democratic Peoples Republic of Korea,PRK,Low,Low,62.57359975
+Southeast Asia,Cambodia,KHM,Lower_Middle,Middle,16.9550226
+Southeast Asia,Lao Peoples Democratic Republic,LAO,Lower_Middle,Middle,20.55955505
+Southeast Asia,Myanmar,MMR,Lower_Middle,Middle,40.05064036
+Southeast Asia,Papua New Guinea,PNG,Lower_Middle,Middle,6.570530106
+Southeast Asia,Philippines,PHL,Lower_Middle,Middle,147.9556226
+Southeast Asia,Samoa,WSM,Lower_Middle,Middle,0.360229572
+Southeast Asia,Solomon Islands,SLB,Lower_Middle,Middle,0.328915059
+Southeast Asia,Timor Leste,TLS,Lower_Middle,Middle,0.566563894
+Southeast Asia,Vanuatu,VUT,Lower_Middle,Middle,0.223016434
+Southeast Asia,Viet Nam,VNM,Lower_Middle,Middle,321.4133382
+Southeast Asia,Fiji,FJI,Upper_Middle,Middle,1.731406874
+Southeast Asia,Malaysia,MYS,Upper_Middle,Middle,251.5552154
+Southeast Asia,Thailand,THA,Upper_Middle,Middle,269.5667145
+Southeast Asia,Tonga,TON,Upper_Middle,Middle,0.169000649
+USA,United States,USA,High,High,4752.07932
